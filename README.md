@@ -4,7 +4,6 @@ Cybersecurity student | Forensic Science + Computing MSc
 
 
 Currently studying for CompTIA Security+ SY0-701
-
 Building skills in Blue Team / SOC analysis and DFIR
 
 ## What I'm working on
