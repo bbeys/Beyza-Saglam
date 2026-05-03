@@ -10,5 +10,5 @@ Building skills in Blue Team / SOC analysis and DFIR
 - HackerOne bug bounty hunting
 
 ## Connect
-- LinkedIn: [your link]
+- LinkedIn: https://www.linkedin.com/in/beyza-saglam-8042b7229
 - TryHackMe: https://tryhackme.com/p/beyzasaglam07
