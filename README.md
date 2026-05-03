@@ -1,6 +1,8 @@
 # Hi, I'm Beyza Saglam
 
 Cybersecurity student | Forensic Science + Computing MSc
+
+
 Currently studying for CompTIA Security+ SY0-701
 Building skills in Blue Team / SOC analysis and DFIR
 
@@ -12,3 +14,4 @@ Building skills in Blue Team / SOC analysis and DFIR
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/beyza-saglam-8042b7229
 - TryHackMe: https://tryhackme.com/p/beyzasaglam07
+- HackerOne: https://hackerone.com/bbeys
